@@ -90,11 +90,6 @@
             "drupal/core": "-p2"
         },
         "patches": {
-            "drupal/core": {
-            },
-            "drupal/session_limit": {
-                "Drupal 9 Deprecated Code Report for Session Limit module": "https://www.drupal.org/files/issues/2020-05-22/drupal_9_deprecated_code-3042747-6.patch"
-            }
         }
     },
     "scripts": {
