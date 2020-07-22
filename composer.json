@@ -90,6 +90,10 @@
             "drupal/core": "-p2"
         },
         "patches": {
+	    "drupal/session_limit": {
+		"Automated Drupal 9 compatibility fixes": "https://www.drupal.org/files/issues/2020-06-28/session_limit.1.x-dev.rector.patch",
+	        "D9 readiness": "https://www.drupal.org/files/issues/2020-06-23/3154100-2.patch"
+	    }
         }
     },
     "scripts": {
